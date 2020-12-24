@@ -1,6 +1,6 @@
 ## Hi there, i'm Julio 👋
 
-![Banner](https://raw.githubusercontent.com/Xibalsba/Xibalsba/master/BannerProfile.jpg)
+![Banner](https://raw.githubusercontent.com/Xibalsba/Xibalsba/master/BannerSmall.jpg)
 
 <!--
 **Xibalsba/Xibalsba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
