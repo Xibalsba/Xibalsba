@@ -1,6 +1,6 @@
 ## Hi there, i'm Julio 👋
 
-![Banner](https://raw.githubusercontent.com/Xibalsba/Xibalsba/master/portada oscura 2.jpg)
+![Banner](https://raw.githubusercontent.com/Xibalsba/Xibalsba/master/portadaOscura.jpg)
 
 <!--
 **Xibalsba/Xibalsba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
